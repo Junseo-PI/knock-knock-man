@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnMemo"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="메모"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnCongrat"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="50dp"
+        android:text="축하"
+        app:layout_constraintTop_toBottomOf="@+id/btnMemo"
+        tools:layout_editor_absoluteX="16dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnThank"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="50dp"
+        android:text="감사"
+        app:layout_constraintTop_toBottomOf="@+id/btnCongrat"
+        tools:layout_editor_absoluteX="16dp"
+        tools:ignore="MissingConstraints"/>
+
+    <Button
+        android:id="@+id/btnWarn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="50dp"
+        android:text="경고"
+        app:layout_constraintTop_toBottomOf="@+id/btnThank"
+        tools:layout_editor_absoluteX="16dp"
+        tools:ignore="MissingConstraints"/>
+</android.support.constraint.ConstraintLayout>

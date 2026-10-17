@@ -1,0 +1,9 @@
+.DS_Store
+
+# Secrets — never commit
+.env
+app/app/google-services.json
+
+# Python
+*.pyc
+__pycache__/
