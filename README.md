@@ -15,6 +15,12 @@ I remembered how inconvenient it was for him to get to the front door every time
 so I wanted a doorbell that lets you see who is there and answer from your phone, wherever you are in the house.
 It turned out to be useful for everyone at home, and for our neighbors as well.
 
+## History
+
+Knock Knock Man grew out of **Supernova**, a home security camera I built for a 2015 IoT DIY maker contest
+(사물인터넷 DIY 창작경진대회). Its camera capture, Dropbox upload, and SMS alert code became the base of the doorbell —
+which is why some files in `doorbell/` still start with `supernova_`.
+
 ## Awards & Press
 
 - 🏆 **Top Excellence Award (최우수상)** — Samsung Junior Software Cup (삼성 주니어 SW 창작대회), 2016
