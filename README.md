@@ -10,10 +10,10 @@ on their phone, and sends back a reply that appears on the doorbell's screen.
 
 ## Motivation
 
-I built Knock Knock Man for my older brother, a former athlete who uses a wheelchair.
-Getting to the front door every time someone rang the bell was hard for him, so I wanted
-him to be able to see who was there and answer from his phone, wherever he was in the house.
-What started as a tool for him turned out to be useful for the rest of my family and our neighbors as well.
+The idea came from my older brother, a former athlete, who had to use a wheelchair for a while.
+I remembered how inconvenient it was for him to get to the front door every time someone rang the bell,
+so I wanted a doorbell that lets you see who is there and answer from your phone, wherever you are in the house.
+It turned out to be useful for everyone at home, and for our neighbors as well.
 
 ## Awards & Press
 
